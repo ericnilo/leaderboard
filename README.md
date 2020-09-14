@@ -9,5 +9,5 @@ $ npm install
 
 2. Running Server
 ```
-$ http-server
+$ npm start
 ```

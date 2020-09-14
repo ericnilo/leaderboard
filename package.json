@@ -1,5 +1,8 @@
 {
   "Author": "Eric Nilo",
+  "scripts": {
+    "start": "http-server ."
+  },
   "dependencies": {
     "http-server": "^0.12.3"
   }
