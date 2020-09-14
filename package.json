@@ -1,4 +1,5 @@
 {
+  "Author": "Eric Nilo",
   "dependencies": {
     "http-server": "^0.12.3"
   }
